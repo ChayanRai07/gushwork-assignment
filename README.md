@@ -27,4 +27,5 @@ script.js – JavaScript functionality (carousel, interactions)
 2. Open `index.html` in any browser
 
 ## GitHub Repository
-https://github.com/YOUR-USERNAME/gushwork-assignment
+https://github.com/ChayanRai07/gushwork-assignment
+
