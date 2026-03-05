@@ -1,4 +1,4 @@
-# Gushwork Assignment
+# Gushwork Frontend Assignment
 
 Developer: Chayan Rai
 
@@ -18,9 +18,9 @@ This project is a frontend implementation based on the provided Figma design. Th
 - Clean and well-structured code
 
 ## Project Structure
-index.html – Main page layout  
-style.css – Styling and responsive design  
-script.js – JavaScript functionality (carousel, interactions)
+`index.html` – Main page layout  
+`styles.css` – Styling and responsive design  
+`script.js` – JavaScript functionality (carousel, interactions)
 
 ## How to Run
 1. Clone the repository

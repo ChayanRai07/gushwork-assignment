@@ -409,9 +409,10 @@ color:#111;
 /* CONTAINER */
 
 .container{
-max-width:1440px;
-margin:auto;
-padding:100px;
+    max-width:1440px;
+    margin:auto;
+    /* desktop and above: 80px padding on all sides */
+    padding:80px;
 }
 
 /* RESPONSIVE PADDING */
@@ -419,7 +420,8 @@ padding:100px;
 @media(max-width:1200px){
 
 .container{
-padding:80px;
+    /* still 80px on all sides for screens up to 1200px */
+    padding:80px;
 }
 
 }
@@ -427,7 +429,8 @@ padding:80px;
 @media(max-width:1080px){
 
 .container{
-padding:80px 60px;
+    /* tablet / small desktop: 80px top/bottom, 60px left/right */
+    padding:80px 60px;
 }
 
 }
@@ -435,11 +438,11 @@ padding:80px 60px;
 @media(max-width:360px){
 
 .container{
-padding:48px 16px;
+    /* mobile: 48px top/bottom, 16px left/right */
+    padding:48px 16px;
 }
 
 }
-
 
 /* NAV */
 
